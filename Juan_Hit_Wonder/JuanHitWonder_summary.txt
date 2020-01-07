@@ -1,0 +1,25 @@
+Juan Hit Wonder (2D,Fast-paced, Top-down, Hack & Slash game)
+
+Juan Hit Wonder is an fast-paced, top-down hack & slash game 
+where the player has to control a hero to defeat endless 
+waves of enemies and 2 boss enemies. The objective of the game 
+is to defeat as many waves of enemies as possible while 
+avoiding hazardous terrain, and collecting gold dropped by enemies 
+to buy upgrades.
+
+The main character, Juan, was asked to act as a Hero for a player 
+where you destroy monsters to save the day. However, Juan took the 
+role too seriously and really believed that he was a hero of the people.
+
+Clear 30 waves of enemies and 3 bosses to make it out of the arena alive 
+and save the world from impending doom…. 
+Even though you are big and roly-poly, move as swift as a ninja while 
+you dash and strike enemies with your sword, while avoiding waves 
+of enemies and boss monsters that are coming for you. 
+Either you die a hero, or live to be a one-hit wonder.
+
+Dexter Wong     (Technical Lead – BSGD)
+Kenneth Siah    (Lead Designer – BSGD)
+Felix Chua      (Product Manager  -- BSGD)
+Timothy Hew     (Artist-- RTIS) 
+Jonathan Jerome (Producer – RTIS)
