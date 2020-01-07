@@ -1,0 +1,38 @@
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+                                Game Name
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+___________.__                  _________  .__     .__          __                    
+\_   _____/|__|_______   ____   \_   ___ \ |  |__  |__|  ____  |  | __  ____    ____  
+ |    __)  |  |\_  __ \_/ __ \  /    \  \/ |  |  \ |  |_/ ___\ |  |/ /_/ __ \  /    \ 
+ |     \   |  | |  | \/\  ___/  \     \____|   Y  \|  |\  \___ |    < \  ___/ |   |  \
+ \___  /   |__| |__|    \___  >  \______  /|___|  /|__| \___  >|__|_ \ \___  >|___|  /
+     \/                     \/          \/      \/          \/      \/     \/      \/ 
+ _______                  ___.                    ________                   
+ \      \   __ __   _____ \_ |__    ____ _______  \_____  \    ____    ____  
+ /   |   \ |  |  \ /     \ | __ \ _/ __ \\_  __ \  /   |   \  /    \ _/ __ \ 
+/    |    \|  |  /|  Y Y  \| \_\ \\  ___/ |  | \/ /    |    \|   |  \\  ___/ 
+\____|__  /|____/ |__|_|  /|___  / \___  >|__|    \_______  /|___|  / \___  >
+        \/              \/     \/      \/                 \/      \/      \/ 
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+||                              TEAM ROSTER                                   ||
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+---------------------------------------------------------------
+|Name                        | Primary Role   | Secondary Role|
+---------------------------------------------------------------
+|Cheong Shu Hui              | Lead Designer  | Programmer    |
+|Mitchell Lee Eng Kian       | Producer       | Programmer    |
+|Ow Yong Gui Ming            | Graphics Lead  | Programmer    |
+|Jonathan Jerome             | Techical Lead  | Programmer    |
+|Chua Xiao Xuan Dahlia       | Designer       |               |
+|Chee Zhong Xian             | Art Lead       | Designer      |
+---------------------------------------------------------------
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+||                              GAME CONCEPT                                  ||
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+
+FireChickenNumberOne is 2D platform action side-scroller where the player plays as a
+warrior named Sosa. He is tasked to head to the temple to give offerings to a 
+relic residing in the temple known as "Fire Chicken". 
+
+The player has to navvigate through the forest and the temple's traps to reach
+the relic but only to find out that Numba Wan stole the relic. 
